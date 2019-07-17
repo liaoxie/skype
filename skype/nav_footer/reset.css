@@ -1,0 +1,24 @@
+html, body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, table,th,tr,td,form, input,fieldset, legend, img,textarea,select,i,em,b,strong { margin:0; padding:0; }
+body { 
+	color:#333; 
+	font-size: 12px;
+	font-family:"微软雅黑","宋体","Arial Narrow","times new roman";
+	background:#fff;
+}
+h1,h2,h3,h4,h5,h6{font-weight: normal;}
+a {color:#666;text-decoration:none; }
+ul li, ol li {list-style:none; } 
+i,em{font-style: normal;}
+img {border:none;vertical-align: top;}
+input{outline: none;}
+.fl{float: left;}
+.fr{float: right;}
+.clearfix::after{
+	content:"";
+	clear: both;
+	display: block;
+	overflow: hidden;
+	visibility: hidden;
+	height: 0;
+	font-size: 1px;
+}
