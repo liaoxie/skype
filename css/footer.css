@@ -1,0 +1,97 @@
+.z_footer {
+	width: 100%;
+	background: #2b5464;
+	border-top: 6px solid #00aff0;
+	padding: 30px 0;
+	position: relative
+}
+
+.z_footer .z_up {
+	padding-right: 20px;
+	padding-bottom: 35px
+}
+
+.z_footer a:hover {
+	text-decoration: underline
+}
+
+.z_footer .z_lan .lan_op {
+	color: #b0c5d1;
+	font-size: 14px;
+	padding-bottom: 16px
+}
+
+.z_footer .z_lan p a {
+	display: block;
+	color: #fff;
+	font-size: 14px
+}
+
+.z_footer .z_lan p img {
+	padding-right: 8px
+}
+
+.z_footer .z_list {
+	width: 500px;
+	display: flex;
+	justify-content: space-around
+}
+
+.z_footer .z_list dt {
+	color: #b0c5d1;
+	font-size: 14px;
+	padding-bottom: 18px
+}
+
+.z_footer .z_list dd {
+	color: #fff
+}
+
+.z_footer .z_list dd a {
+	color: #fff;
+	font-size: 14px;
+	line-height: 24px
+}
+
+.z_footer .z_bottom {
+	color: #b0c5d1;
+	font-size: 12px
+}
+
+.z_bottom .sideL h4 {
+	font-size: 14px;
+	font-weight: 700
+}
+
+.z_bottom .sideL .z_logo {
+	line-height: 14px;
+	padding-top: 20px
+}
+
+.z_bottom .sideL .z_logo a {
+	color: #fff
+}
+
+.z_bottom .sideR p {
+	text-align: right
+}
+
+.z_bottom .sideR p:first-child {
+	padding: 15px 0 12px
+}
+
+.z_footer .z_weixin {
+	cursor: pointer
+}
+
+.z_footer .z_wx {
+	width: 128px;
+	position: absolute;
+	right: 46px;
+	bottom: 46px;
+	display: block
+}
+
+.z_footer .show {
+	display: none
+}
