@@ -1,0 +1,51 @@
+{
+    "banner":[
+        {"title":"双屏电容会议桌面","imgurl":"../images/shopcenter_imgs/swiper_01.png","portal":"http://skype.gmw.cn/hwstore/product.html?id=281"},
+        {"title":"桌面阵列话筒","imgurl":"../images/shopcenter_imgs/swiper_02.png","portal":"http://skype.gmw.cn/hwstore/product.html?id=281"},
+        {"title":"双屏电容会议桌面","imgurl":"../images/shopcenter_imgs/swiper_01.png","portal":"http://skype.gmw.cn/hwstore/product.html?id=281"}
+        ]
+        ,
+    "topitem":[
+        {
+        "title":"罗技CC3500E",
+        "imgurl":"../images/shopcenter_imgs/toppdct_01.png",
+        "portal":"http://skype.gmw.cn/hwstore/product.html?id=307",
+        "info":"单耳式UC耳麦",
+        "price":"￥8100"
+        }
+        ]
+        ,
+    "meeting":[
+        {"title":"55英寸双屏电容触控会议平板","imgurl":"../images/shopcenter_imgs/meeting_01.png","portal":"productinfo.html?id=001","price":"￥41800"},
+        {"title":"42英寸电容触控茶几","imgurl":"../images/shopcenter_imgs/meeting_02.png","portal":"http://skype.gmw.cn/hwstore/product.html?id=281","price":"￥16800"},
+        {"title":"55英寸电容触控会议平板","imgurl":"../images/shopcenter_imgs/meeting_03.png","portal":"http://skype.gmw.cn/hwstore/product.html?id=281","price":"￥21800"},
+        {"title":"65英寸电容触控会议平板","imgurl":"../images/shopcenter_imgs/meeting_04.png","portal":"http://skype.gmw.cn/hwstore/product.html?id=281","price":"￥41800"},
+        {"title":"55英寸电容平板-商务单板","imgurl":"../images/shopcenter_imgs/meeting_05.png","portal":"http://skype.gmw.cn/hwstore/product.html?id=281","price":"￥18200"}
+        ]
+        ,
+    "camera":[
+        {"imgurl":"../images/shopcenter_imgs/camera_01.png","code":"001","title":"USB 3.0型高清视频会议摄像机","price":"￥2999","portal":"productinfo.html?id=001"},
+        {"imgurl":"../images/shopcenter_imgs/camera_02.png","code":"002","title":"USB 2.0型高清视频会议摄像机","price":"￥1999","portal":"productinfo.html?id=002"},
+        {"imgurl":"../images/shopcenter_imgs/camera_03.png","code":"003","title":"USB 3.0型4K超高清网络摄像机","price":"￥1999","portal":"productinfo.html?id=003"},
+        {"imgurl":"../images/shopcenter_imgs/camera_04.png","code":"004","title":"USB 2.0型高清网络摄像机","price":"￥3999","portal":"productinfo.html?id=004"},
+        {"imgurl":"../images/shopcenter_imgs/camera_05.png","code":"005","title":"罗技BCC950","price":"￥2999","portal":"productinfo.html?id=005"},
+        {"imgurl":"../images/shopcenter_imgs/camera_06.png","code":"006","title":"罗技视频摄像头","price":"￥4999","portal":"http://skype.gmw.cn/hwstore/product.html?id=299"},
+        {"imgurl":"../images/shopcenter_imgs/camera_07.png","code":"007","title":"罗技CC3500E","price":"￥8100","portal":"http://skype.gmw.cn/hwstore/product.html?id=299"}
+        ]
+        ,
+    "mic":[
+        {"imgurl":"../images/shopcenter_imgs/mic_01.png","title":"SC 60 USB ML","price":"￥598","portal":"http://skype.gmw.cn/hwstore/product.html?id=299"},
+        {"imgurl":"../images/shopcenter_imgs/mic_02.png","title":"SC 70 USB ML","price":"￥878","portal":"http://skype.gmw.cn/hwstore/product.html?id=299"},
+        {"imgurl":"../images/shopcenter_imgs/mic_03.png","title":"Presence UC ML","price":"￥2198","portal":"http://skype.gmw.cn/hwstore/product.html?id=299"},
+        {"imgurl":"../images/shopcenter_imgs/mic_04.png","title":"DW 10","price":"￥3678","portal":"http://skype.gmw.cn/hwstore/product.html?id=299"},
+        {"imgurl":"../images/shopcenter_imgs/mic_05.png","title":"MB Pro 2 UC ML","price":"￥2998","portal":"http://skype.gmw.cn/hwstore/product.html?id=299"},
+        {"imgurl":"../images/shopcenter_imgs/mic_06.png","title":"MB 660 UC MS","price":"￥4998","portal":"http://skype.gmw.cn/hwstore/product.html?id=299"}
+        ]
+        ,
+    "speaker":[
+        {"imgurl":"../images/shopcenter_imgs/speaker_01.png","title":"SP 20 ML","price":"￥1998","portal":"http://skype.gmw.cn/hwstore/product.html?id=299"},
+        {"imgurl":"../images/shopcenter_imgs/speaker_02.png","title":"SP 220 MS","price":"￥4888","portal":"http://skype.gmw.cn/hwstore/product.html?id=299"},
+        {"imgurl":"../images/shopcenter_imgs/speaker_03.png","title":"桌面阵列话筒","price":"￥14630","portal":"http://skype.gmw.cn/hwstore/product.html?id=299"},
+        {"imgurl":"../images/shopcenter_imgs/speaker_04.png","title":"天花阵列话筒","price":"￥84000","portal":"http://skype.gmw.cn/hwstore/product.html?id=299"}   
+        ]
+}

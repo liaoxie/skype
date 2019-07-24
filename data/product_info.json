@@ -1,0 +1,59 @@
+{
+    "infos":[
+        {
+            "imgurl":"../images/shopcenter_imgs/camera_01.png",
+            "title":"USB 3.0型高清视频会议摄像机",
+            "price":"￥2999",
+            "type":"V71UV",
+            "dis":["1号可用于20平米以上的会议室","提供12x变焦镜头","可方便特写同时拥有高达72.5度超大广角","支持UVC 1.5协议","完美适配Skype for Business应用","1080P的高清晰图像充分满足视频会议场合应用。"],
+            "param":["USB 3.0","84度定焦镜头","4K"],
+            "id":"001"
+        },
+        {
+            "imgurl":"../images/shopcenter_imgs/camera_02.png",
+            "title":"USB 2.0型高清视频会议摄像机",
+            "price":"￥1999",
+            "type":"V56UV",
+            "dis":["2号产品提供4K视频输出","84度视角","无畸变，无暗角","支持UVC 1.5协议","完美适配Skype for Business应用","用于20平米以下的会议室，或网红主播摄像机"],
+            "param":["USB 3.0","84度定焦镜头","4K"],
+            "id":"002"
+        },
+        {
+            "imgurl":"../images/shopcenter_imgs/camera_03.png",
+            "title":"USB 3.0型4K超高清网络摄像机",
+            "price":"￥1999",
+            "type":"JX1700U",
+            "dis":["3号产品用于20平米以下的会议室，或网红主播摄像机","提供4K视频输出","84度视角","无畸变，无暗角"],
+            "param":["USB 3.0","84度定焦镜头","4K"],
+            "id":"003"
+        },
+        {
+            "imgurl":"../images/shopcenter_imgs/camera_04.png",
+            "title":"USB 3.0型4K超高清网络摄像机",
+            "price":"￥3999",
+            "type":"JX1700U",
+            "dis":["4号产品提供4K视频输出","84度视角","无畸变，无暗角","支持UVC 1.5协议","完美适配Skype for Business应用","用于20平米以下的会议室，或网红主播摄像机"],
+            "param":["USB 3.0","84度定焦镜头","4K"],
+            "id":"004"
+        },
+        {
+            "imgurl":"../images/shopcenter_imgs/camera_05.png",
+            "title":"罗技BCC950",
+            "price":"￥2999",
+            "type":"逻辑摄像机",
+            "dis":["— 5号产品UVC H.264内嵌技术，无需安装任何软件，轻松对接。","— 专业级认证，轻松适用微软的Skype与Skype for business。 ","— 可远程控制会议，78度视角，远程控制摄像头180度。 ","— 内置全双工扬声器和抗噪麦克风，音质清晰。","— 使用桌面视频应用产品。 ","— 具有自动对焦功能的卡尔蔡司镜头。 "],
+            "param":["USB 3.0","84度定焦镜头","4K"],
+            "id":"005"
+        }
+    ],
+    "camera":[
+        {"imgurl":"../images/shopcenter_imgs/camera_01.png","title":"USB 3.0型高清视频会议摄像机"},
+        {"imgurl":"../images/shopcenter_imgs/camera_02.png","title":"USB 2.0型高清视频会议摄像机"},
+        {"imgurl":"../images/shopcenter_imgs/camera_03.png","title":"USB 3.0型4K超高清网络摄像机"},
+        {"imgurl":"../images/shopcenter_imgs/camera_04.png","title":"USB 2.0型高清网络摄像机"},
+        {"imgurl":"../images/shopcenter_imgs/camera_05.png","title":"罗技BCC950"},
+        {"imgurl":"../images/shopcenter_imgs/camera_06.png","title":"罗技视频摄像头"},
+        {"imgurl":"../images/shopcenter_imgs/camera_07.png","title":"罗技CC3500E"}
+        ]
+
+}
