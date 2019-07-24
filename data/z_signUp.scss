@@ -1,0 +1,176 @@
+.z_wrap{
+    width: 100%;
+    height: 100%;
+    background: #0096e2;  
+    position: relative; 
+    .z_sbody{
+        width: 400px;
+         height: 620px;
+        box-sizing: border-box;
+        background: #fff;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-top: -300px;
+        margin-left: -200px;
+        padding: 30px;
+        .img1{
+            position: absolute;
+            top: -60px;
+            left: 180px;
+        }
+        h3{
+            font-size: 23px;
+            padding: 18px 0 8px 0;
+            font-weight: bold;
+        }
+        .z_inp1,.z_inp2,.z_inp3,.z_inp4,.z_inp5{
+            border: none;
+            border-bottom: 1px solid #666666;
+            height: 32px;
+            font-size: 14px;           
+        }
+        .z_inp1{
+            width: 64px;
+            background: url(../imags/z_signUp/z_arr03.png) no-repeat right;           
+            padding-left: 6px;
+            margin-right: 16px;
+        }
+        .z_inp2{
+            width: 220px;
+        }
+        .z_inp3{
+            width: 310px;
+        }
+        .z_email,.z_yzemail,.pass2{
+            display: none;
+        }
+       span{
+            padding-left: 10px;
+            color: #0067b8
+        }
+        .z_op{
+            margin-top: 15px;
+            .z_s1{
+                padding-right: 20px;
+            }
+        }
+        button{
+            position: absolute; 
+            display: block;
+            color: #fff;
+            line-height: 32px;
+            background: #0067b8;
+            border: none;
+            padding: 0 30px;
+            cursor: pointer;
+            bottom: 40px;    
+        }
+        .z_prev{                                     
+            left: 30px;               
+        }
+        .z_next{
+            right: 30px;
+        }
+        .z_learnmore{
+            font-size: 12px;
+            padding-top: 8px;           
+        }
+        a{
+            color: #0167b9;
+        }
+        a:hover{
+           text-decoration: underline;
+        }
+        i{
+            font-style: normal;
+            padding-left: 5px;
+        }
+        p{
+            padding-bottom: 5px;
+        }
+        .z_code{
+            height: 75px;
+            margin: 0 auto;
+            padding: 15px 0;
+            display: flex;
+            justify-content: space-between;
+            .z_yzm{
+                width: 49%;
+                flex: 1;
+                background: #fff9f9;
+                font-size: 28px;
+                text-align: center;
+                line-height: 77px;
+                font-family: "comic sans ms";
+                color: #C0DCE6;
+            }
+            .z_other{
+                width: 49%;
+                p{
+                    line-height: 30px;
+                    background: #cccccc;
+                    text-align: center;
+                    margin-bottom: 6px;
+                    cursor: pointer;
+                }
+                
+            }           
+        }
+        .z_tell{
+            position: relative;
+            .z_countList{
+                width: 308px;
+                background: #fff;
+                border: 1px solid #666;
+                position: absolute;
+                top: 37px;
+                z-index: 100;
+                display: none;
+                li{
+                    line-height: 20px;
+                    font-size: 14px;
+                }
+                li:hover{
+                    background: #eee;
+                    cursor: pointer;
+                }
+            }
+        }
+        .z_notice1,.z_notice3,.z_notice4,.z_notice5,.z_notice6{
+            color: red;
+        }
+        .z_notice2{
+            display: none;
+        }
+        .z_notice6{
+            text-align: center;
+            padding-top: 15px;
+        }
+        
+    }
+    .z_sfooter{
+        width: 100%;
+        height: 28px;
+        background: #002643;
+        position: absolute;
+        bottom: 0;
+        font-size: 12px;
+        color: #fff;
+        line-height: 28px;
+        p{
+            float: right;
+            padding-right: 10px;
+            a{
+                color: #fff;
+                padding-left: 15px;
+            }
+            a:hover{
+                text-decoration: underline;
+            }
+        }
+    }
+
+}
+
+

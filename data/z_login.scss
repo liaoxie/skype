@@ -1,0 +1,100 @@
+.z_wrap{
+    width: 100%;
+    height: 100%;
+    background: #0096e2;  
+    position: relative; 
+    .z_sbody{
+        width: 400px;
+        height: 550px;
+        box-sizing: border-box;
+        background: #fff;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-top: -280px;
+        margin-left: -200px;
+        padding: 30px;
+        .img1{
+            position: absolute;
+            top: -60px;
+            left: 180px;
+        }
+        h3{
+            font-size: 23px;
+            padding: 20px 0 8px 0;
+            font-weight: bold;
+        }
+        .z_notice1,.z_notice2,.z_notice3{
+            color: red;
+        }
+        .z_notice3{
+            padding-top: 30px;
+            text-align: center;
+        }
+        .z_inp{
+            width: 310px;
+            border: none;
+            border-bottom: 1px solid #666666;
+            height: 35px;
+            font-size: 14px;  
+            padding-top: 10px;         
+        }
+        .z_some{
+            padding: 10px 0;
+        }
+        .z_keepLog{
+            line-height: 40px;
+            padding-top: 5px;
+            .z_logstatus{
+                width: 15px;
+                height: 15px;
+                margin: 10px 10px 10px 0;
+            } 
+        }          
+        .z_log{
+            display: block;
+            position: absolute;
+            bottom: 40px;
+            right: 30px;
+            color: #fff;
+            line-height: 32px;
+            background: #0067b8;
+            border: none;
+            padding: 0 30px;
+            cursor: pointer;
+        }
+        span{
+            color: #0067b8;
+            cursor: pointer;
+        }
+        span:hover{
+            text-decoration: underline;
+        }
+        p{
+            padding-bottom: 5px;
+        }
+
+    }
+    .z_sfooter{
+        width: 100%;
+        height: 28px;
+        background: #002643;
+        position: absolute;
+        bottom: 0;
+        font-size: 12px;
+        color: #fff;
+        line-height: 28px;
+        p{
+            float: right;
+            padding-right: 10px;
+            a{
+                color: #fff;
+                padding-left: 15px;
+            }
+            a:hover{
+                text-decoration: underline;
+            }
+        }
+    }
+
+}
